@@ -2,5 +2,5 @@ spring:
   datasource:
     driver-class-name: com.mysql.jdbc.Driver
     url: jdbc:mysql://localhost:3306/springcloud?characterEncoding=utf8
-    username: '{cipher}47846514c89d40d1ea8743bf79eb4ffd7e0485ee3f66703f5dc0784c2193b079'
-    password: '{cipher}a68a6372673fb67447c156a3216b7e3f8133565ebde69bff32bc2d4243e67136'
+    username: '{cipher}AQCe9fix1I91UhYQ3KxuwomVHPCWYXzF6bi29xPeFcpsTXhr4xJ+HAYyoiaxiei/SmuJHft9cs4ZRfI51KLksiyehX/csOPGUwLtPQu9VN+YfgM7R0o2T5qptj26Tctn445tsi07cFh9dncboAu/2xPyvfeT40vh5ptWyhHyTVCY9zhNGvVmnL5x2223vWYI9GrD6UxeJAtQLbvDNohVwch2ehgyHi0ciUA/ZVDLhcEsRaDI85u3DfN6oZTQEzqiZwVRR1WvZHQCczRt+bCKMfZU/KDDyuoL/41TxkDVfA+6LugVyj74rWFcTDUJfXUX2yczIkyv0a7sWEL+eeoG8MrYko1YRYInx6Oj09hZ2WQyH9rGdRRGQbjlDZ8xYtOUPPU='
+    password: '{cipher}AQCe9fix1I91UhYQ3KxuwomVHPCWYXzF6bi29xPeFcpsTXhr4xJ+HAYyoiaxiei/SmuJHft9cs4ZRfI51KLksiyehX/csOPGUwLtPQu9VN+YfgM7R0o2T5qptj26Tctn445tsi07cFh9dncboAu/2xPyvfeT40vh5ptWyhHyTVCY9zhNGvVmnL5x2223vWYI9GrD6UxeJAtQLbvDNohVwch2ehgyHi0ciUA/ZVDLhcEsRaDI85u3DfN6oZTQEzqiZwVRR1WvZHQCczRt+bCKMfZU/KDDyuoL/41TxkDVfA+6LugVyj74rWFcTDUJfXUX2yczIkyv0a7sWEL+eeoG8MrYko1YRYInx6Oj09hZ2WQyH9rGdRRGQbjlDZ8xYtOUPPU='
