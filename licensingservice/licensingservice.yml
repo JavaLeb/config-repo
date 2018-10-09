@@ -2,5 +2,5 @@ spring:
   datasource:
     driver-class-name: com.mysql.jdbc.Driver
     url: jdbc:mysql://localhost:3306/springcloud?characterEncoding=utf8
-    username: root
-    password: root
+    username: {cipher}47846514c89d40d1ea8743bf79eb4ffd7e0485ee3f66703f5dc0784c2193b079
+    password: {cipher}a68a6372673fb67447c156a3216b7e3f8133565ebde69bff32bc2d4243e67136
