@@ -1,3 +1,5 @@
+example:
+  property: I AM A DEFAULT PROPERTY OVERRIDE
 spring:
   datasource:
     driver-class-name: com.mysql.jdbc.Driver
