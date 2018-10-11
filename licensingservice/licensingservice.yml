@@ -1,5 +1,5 @@
 example:
-  property: I AM A DEFAULT PROPERTY OVERRIDE
+  property: I AM A DEFAULT PROPERTY OVERRIDE REFRESH
 spring:
   datasource:
     driver-class-name: com.mysql.jdbc.Driver
