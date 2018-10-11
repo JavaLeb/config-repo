@@ -5,4 +5,4 @@ spring:
     driver-class-name: com.mysql.jdbc.Driver
     url: jdbc:mysql://localhost:3306/springcloud?characterEncoding=utf8
     username: root
-    password: '{cipher}eba55edb5a21485c8689074009b6c430a572b7d92dc1cee2f9f1bdf38ca42b78'
+    password: '{cipher}AQBnsEP0cUSTZIdIewHmJ1LMZpqscuSupXPzu0MHGo4EPuhgvYyUGMiek2QQ0h9uHRnigyyO7mmf+zsAZRA8OGY81imiNxVN3EV38f7IlRqMpFT8oQkc6+bM/0whF0/oPYF0YL/7T6MSrytZw6qL36a40S/olsagFbbw2TqQlGeYR5K7hfzuuPx3qV66dsdZGF8x+lNwaayVUrSZZth65+19E+VYf7c7yWqPWZWDkGktrApfklvCj/LUUtzPNpyUX1z4frEFOcQGc9sdg9uuRFg3kipSyxN3M+pgpIbLdhHV72FypOjpWxOTm7jhrNnuS7HKRuVCD9d4DrWLql6lI2+RRege/bzVHM1nmApx3lCj/fzH8C7SnqFbEzdr8nVY6Xw='
